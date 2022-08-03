@@ -15,8 +15,8 @@ Here are some quick things about me:
 
 ![Wesley Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=WSouz&show_icons=true&theme=dracula)
 
----
 
+### Technology I use in my day
 
 <div style="display: inline_block"><br>
     <img aling="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -37,4 +37,4 @@ Here are some quick things about me:
         <img aling="center" alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />  
 </div><br/>
 
-### Passionate about technology and always looking for more knowledge every day.
+Passionate about technology and always looking for more knowledge every day.
